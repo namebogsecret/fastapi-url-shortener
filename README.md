@@ -23,3 +23,10 @@ pytest -q
 
 ## License
 MIT
+
+---
+
+### 🚑 Need automation work done?
+
+I fix broken Zapier/Make/n8n workflows in 48–72h and build custom scraping / AI / integration pipelines.
+**[Get a free diagnosis →](https://git.podlevskikh.com/automation-rescue/)** · jobs@podlevskikh.com
